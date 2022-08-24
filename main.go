@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func addFeature() {
-	fmt.Println("This is from featureA")
+	fmt.Println("This one is from featureB")
 }
 
 func main() {
